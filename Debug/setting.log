@@ -1,0 +1,8 @@
+﻿  setting.cpp
+C:\Users\Администратор\Desktop\Russkikh\setting\setting\TSet.h(15,21): warning C4018: '<': signed/unsigned mismatch
+  TBitField.cpp
+  TSet.cpp
+C:\Users\Администратор\Desktop\Russkikh\setting\setting\TSet.h(15,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  LINK : C:\Users\Администратор\Desktop\Russkikh\setting\Debug\setting.exe not found or not built by the last incremental link; performing full link
+  setting.vcxproj -> C:\Users\Администратор\Desktop\Russkikh\setting\Debug\setting.exe
